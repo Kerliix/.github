@@ -1,8 +1,19 @@
-# Kerliix
+<table width="100%">
+  <tr>
+    <td align="left" valign="middle" style="width: 80%;">
+      <h1>Kerliix</h1>
+      <p><strong>It's all about you</strong></p>
+    </td>
+    <td align="right" valign="middle" style="width: 20%;">
+      <img src="https://raw.githubusercontent.com/kaliikaMood/assets/main/kerliix-logo.png" width="120" alt="Kerliix Logo" />
+    </td>
+  </tr>
+</table>
 
-**Its all about you**
+---
 
 Welcome to the official GitHub organization for **Kerliix**.
+
 Kerliix is an upcoming company dedicated to building seamless, intelligent, and secure digital experiences. We're committed to transforming how people interact with technology—across productivity, lifestyle, AI, and beyond.
 
 ---
@@ -51,7 +62,8 @@ We welcome contributors! You can:
 
 ---
 
-© [Year] [Your Organization Name] – All rights reserved.
+© 2025 Kerliix – All rights reserved.
 
 ---
-> “Kerliix. Its all About You.”
+
+> “Kerliix. It's all About You.”
