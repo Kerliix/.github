@@ -1,4 +1,3 @@
-
 # Kerliix
 
 **Its all about you**
@@ -26,6 +25,23 @@ We welcome contributions from the community! Please check out our:
 
 ---
 
+## Learn More
+
+Visit our website: [https://kerliix.com](https://kerliix.com)
+
+Or check out all our repositories here on GitHub.
+
+---
+
+## Get Involved
+
+We welcome contributors! You can:
+- Open issues
+- Submit pull requests
+- Join our discussions
+
+---
+
 ## Contact & Links
 
 - Website: [https://kerliix.com](https://kerliix.com)
@@ -35,10 +51,7 @@ We welcome contributions from the community! Please check out our:
 
 ---
 
-## License
-
-All public repositories in this organization are licensed under the [MIT License](LICENSE), unless otherwise specified.
+© [Year] [Your Organization Name] – All rights reserved.
 
 ---
-
 > “Kerliix. Its all About You.”
